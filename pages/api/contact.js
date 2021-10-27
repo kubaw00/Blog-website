@@ -40,7 +40,7 @@ async function handler(req, res) {
       newMessage.id = result.insertedId;
     } catch (error) {
       client.close();
-      res.status(500).json({ message: 'Storing messgae failed' });
+      res.status(500).json({ message: 'Storing message failed' });
       return;
     }
     client.close();
