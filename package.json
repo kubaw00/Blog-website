@@ -18,7 +18,7 @@
     "react-syntax-highlighter": "^15.4.4"
   },
   "devDependencies": {
-    "eslint": "^8.1.0",
+    "eslint": "^7.23.0",
     "eslint-config-next": "11.1.2"
   }
 }
