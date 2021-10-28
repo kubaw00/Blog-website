@@ -1,4 +1,4 @@
-import Hero from '../components/home-page/Hero';
+import Hero from '../components/home-page/hero';
 import FeaturedPosts from '../components/home-page/featured-posts';
 import { getFeaturedPosts } from '../lib/post-util';
 import Head from 'next/head';
